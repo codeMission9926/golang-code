@@ -1,3 +1,5 @@
-# golang-code
+#golang-code
 
-Golang learning mission :)
+this is my first code.
+
+Author - Devendra adhikari (Apna code)

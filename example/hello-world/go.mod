@@ -1,4 +1,4 @@
-module Documents/hello
+module https://github.com/codeMission9926/golang-code.git
 
 go 1.22.3
 

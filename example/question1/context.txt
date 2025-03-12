@@ -1,0 +1,6 @@
+Q. You need to create a code for a user who want to enter 2 values and need the sum of the two values as output. like
+
+A = 2
+B = 5 
+answer = 7 
+

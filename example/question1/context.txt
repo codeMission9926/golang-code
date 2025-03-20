@@ -4,3 +4,120 @@ A = 2
 B = 5 
 answer = 7 
 
+1. What is the Output?
+
+package main
+
+import "fmt"
+
+func main() {
+    var x int = 10
+    y := 20
+    z := x + y
+    fmt.Println(z)
+}
+
+
+Options:
+a) 10
+b) 20
+c) 30
+d) Compilation Error
+
+
+2. What is the default value of an uninitialized bool variable in Go?
+Options:
+a) true
+b) false
+c) nil
+d) Compilation Error
+
+
+
+
+3. Identify the Error (if any):
+
+package main
+
+import "fmt"
+
+func main() {
+    var name = "Yogesh"
+    name = 25
+    fmt.Println(name)
+}
+
+
+Options:
+a) Prints 25
+b) Compilation Error: Cannot assign int to string
+c) Prints Yogesh25
+d) Runtime Error
+
+
+2. What is the default value of an uninitialized bool variable in Go?
+Options:
+a) true
+b) false
+c) nil
+d) Compilation Error
+
+
+
+3. Identify the Error (if any):
+
+package main
+
+import "fmt"
+
+func main() {
+    var name = "Yogesh"
+    name = 25
+    fmt.Println(name)
+}
+
+
+Options:
+a) Prints 25
+b) Compilation Error: Cannot assign int to string
+c) Prints Yogesh25
+d) Runtime Error
+
+4. What is the type of variable x?
+
+package main
+
+func main() {
+    x := 3.14
+}
+
+
+Options:
+a) float64
+b) float32
+c) int
+d) interface{}
+
+5. Which of the following statements about variable declarations in Go is false?
+
+a) Variables declared without an initial value are assigned the zero value.
+b) The := operator can be used for declaring and initializing variables.
+c) Variable types must always be explicitly specified.
+d) Multiple variables can be declared in a single line.
+
+1. What will be the output of the following Go code, and why?
+
+package main
+
+import "fmt"
+
+func main() {
+    var a int
+    var b float64
+    var c string
+    var d bool
+
+    fmt.Printf("%d %f '%s' %t\n", a, b, c, d)
+}
+
+

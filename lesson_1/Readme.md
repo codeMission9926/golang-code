@@ -7,3 +7,9 @@
 
 3. What are the types of variables ? 
 - int, float, string, boolean ... etc 
+
+
+
+defination: containers jisme hum values store krte sakte hai ( string words/sentence, numbers positive/negative/decimals , boolean true/false)
+
+constant variable: aise variables jinke value pure code mai ek baar define krne ke baad change nhi hoti hai. 
